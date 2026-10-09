@@ -9,12 +9,12 @@ window.LEADS = [
     name: "Level Up",
     sub: "Сеть школ, Алматы с 2009 · level-up.kz",
     lang: "ru",
-    poster: "https://nazaralmaty.github.io/vitrina-levelup/assets/brand-logo.svg",
+    poster: "https://nazaralmaty.github.io/vitrina-levelup/assets/brand-logo.png",
     demo: "https://nazaralmaty.github.io/vitrina-levelup/",
     wa: "77073901201",
     ig: "levelup.kz",
     src: "WhatsApp +7 707 390 12 01 — со страницы level-up.kz/contacts, общая линия школы, не личная. Instagram levelup.kz — оттуда же.",
-    check: "Имя получателя неизвестно — обращение без имени. WhatsApp — общая линия школы, не личная. Логотип взят с сайта — сверить цвет #0B7FA8 с их брендбуком.",
+    check: "Имя получателя неизвестно — обращение без имени. WhatsApp — общая линия школы, не личная. Логотип и палитра сняты с level-up.kz и Instagram (синий и жёлтый из их постов); сверить, что их это устраивает.",
     text: "Здравствуйте! Собрал демо платформы для Level Up: открывается по ссылке с телефона, внутри уроки, словарь, игры и мультик в нашем формате.\n\nДемо: {demo}\n\nВидеоуроки снимем мультиками под вашу программу, задания соберут методологи. Посмотрите и скажите, что думаете."
   }
 ];
